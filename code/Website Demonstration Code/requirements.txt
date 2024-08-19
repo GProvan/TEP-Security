@@ -1,0 +1,13 @@
+pandas
+streamlit
+Pillow
+tqdm
+torch
+scikit-learn
+numpy
+seaborn
+matplotlib
+networkx
+graphviz
+dtreeviz
+dill
